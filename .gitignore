@@ -1,0 +1,8 @@
+# Never commit the binaries. They are release assets only.
+*.tgz
+*.nupkg
+*.jar
+*.whl
+*.so
+*.so.*
+*.dylib

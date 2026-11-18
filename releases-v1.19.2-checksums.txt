@@ -1,0 +1,3 @@
+2845df751d11cc1afc03e37ccc7ecd8033b08da72a85900390aac5b57663e466  onnxruntime-linux-aarch64-1.19.2.tgz
+995e5fd95f6ad6435440b9dac642420b8222dbc8bfec20cbc3a8a0bd45527b39  onnxruntime-linux-x64-1.19.2.tgz
+f387ed8a9e8475df4b9a0d582ef096fbc7148430702f1f058fff4abea522c6b4  onnxruntime-osx-arm64-1.19.2.tgz
